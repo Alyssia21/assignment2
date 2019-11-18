@@ -35,6 +35,10 @@ dt{
 color: #000033;
 font-weight:bold;
 }
+dd{
+	color:#ffffff;
+	font-weight:bold;
+}
 .resort{
 	color: #000033;
 	font-size:1.2em;
